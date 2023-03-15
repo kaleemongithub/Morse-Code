@@ -56,7 +56,6 @@ morse_code = {
     ' ': '/'
 }
 
-
 def regular_morse_code(number):
     if number == "1":
         user_input = input("Type your message you want to translated: ")
